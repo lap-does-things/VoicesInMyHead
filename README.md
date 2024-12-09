@@ -1,6 +1,6 @@
 
 # VOICESINMYHEAD
-![Logo](https://i.imgur.com/r19rpoD.jpeg)
+![Logo](https://i.imgur.com/3fCqmq2.png)
 
 A script that definetely talks specifically to you!!!
 
