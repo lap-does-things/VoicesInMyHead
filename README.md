@@ -4,8 +4,8 @@
 
 A script that definetely talks specifically to you!!!
 
-Inspired by Terry Davis' similar script for TEMPLEOS, pretty he had something like that
-I like to image someone would use this for ricing
+Inspired by Terry Davis' similar script for TEMPLEOS, pretty he had something like that </br>
+I like to imagine someone would use this for ricing
 
 
 ## Usage
